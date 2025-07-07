@@ -1,9 +1,9 @@
 # AgroAI 🌾 - Your Smart Farming Companion
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/AgroAI?style=social)](https://github.com/Srinivas-2410/AgroAI/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/AgroAI?style=social)](https://github.com/Srinivas-2410/AgroAI/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Srinivas-2410/AgroAI?style=social)](https://github.com/Srinivas-2410/AgroAI/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Srinivas-2410/AgroAI?style=social)](https://github.com/Srinivas-2410/AgroAI/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/AgroAI)](https://github.com/Srinivas-2410/AgroAI/issues)
+[![GitHub issues](https://img.shields.io/github/issues/Srinivas-2410/AgroAI)](https://github.com/Srinivas-2410/AgroAI/issues)
 
 ---
 
